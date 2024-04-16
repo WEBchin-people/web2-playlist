@@ -4,7 +4,7 @@
 
 코드가 완벽하지 않아도 됩니다. 위 사진과 동일한 레이아웃을 완성도 있게 따라 만들기만 하면 됩니다.
 
--> **4/15**까지
+-> **4/15**까지 완료하기
 
 ![image](https://github.com/WEBchin-people/web2-playlist/assets/129304827/4021b3d2-802c-4c3d-badd-dbe2a1b3c332)
 
